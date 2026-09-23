@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8afcad93d8fef45641931fa3",
+  "owner": "wfcywcta",
+  "repo": "page-6655b512a4195e4defb83acd",
+  "title": "飞马",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6655b512a4195e4defb83acd",
+      "a": "飞马",
+      "b": "机场官网线路发布页",
+      "entity": "飞马",
+      "brand": "飞马",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "061c381f164e31195f2ef9e9c453dc109ba342017b7630d8215f1229b6a6755b",
+      "content": {
+        "primary_entity": "飞马",
+        "keyword1": "飞马",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑客户端，手机、电脑、路由器各有对应版本。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "结合设备数量与流量习惯，挑选匹配的飞马套餐。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺",
+          "AI_DESCRIPTION": "，飞马提供基础版、旗舰版与团队版三档方案，月流量从 100GB 到 1000GB 逐级提升，设备并发数覆盖 3 台至 20 台。旗舰版包含 IPLC 专线游戏加速优化，团队版支持企业定制路由与专属客户经理服务。年付方案按十个月计费，适合长期稳定使用的用户按需选择。",
+          "AI_FAQ_ANSWER_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按日常同时在线设备数选择即可，超量设备需升级套餐。",
+          "AI_FAQ_ANSWER_2": "支持。年付按十个月计费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FAQ_ANSWER_3": "在客户端内导入订阅链接即可完成配置，每个套餐支持多类常用客户端，具体以对应客户端文档指引为准。",
+          "AI_FAQ_ANSWER_4": "旗舰版含 IPLC 专线游戏加速优化，针对游戏延迟做链路调优；团队版提供 VIP 高带宽节点，适合更高带宽需求。",
+          "AI_FAQ_ANSWER_5": "流量按月重置，当月未用完不累计到次月，超出当月套餐流量后可升级至更高档套餐继续使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "飞马各套餐分别支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "飞马套餐可以按年付费吗？",
+          "AI_FAQ_QUESTION_3": "飞马订阅怎么在客户端里配置？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版在游戏加速上有哪些区别？",
+          "AI_FAQ_QUESTION_5": "飞马的月流量用不完会累积吗？",
+          "AI_FAQ_TITLE": "飞马常见疑问",
+          "AI_FEATURES_INTRO": "从套餐、设备、周期三个角度快速了解飞马。",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版适合轻量使用，旗舰版平衡流量与设备数，团队版面向多人共享高带宽环境。",
+          "AI_FEATURE_TEXT_2": "先统计常用设备数量，再对照各档套餐的并发上限，避免连接时因设备超额受影响。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付按十个月计费，流量需求稳定且长期使用的用户可优先考虑年付方案。",
+          "AI_FEATURE_TITLE_1": "按需选档",
+          "AI_FEATURE_TITLE_2": "设备匹配",
+          "AI_FEATURE_TITLE_3": "周期灵活",
+          "AI_GUIDE_INTRO": "三步完成飞马接入准备。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "飞马是为跨地区网络访问设计的加速服务，提供基础版、旗舰版与团队版三档套餐，按流量与设备数区分使用场景。年付按十个月计费，支持多类常用客户端导入订阅，适合个人与小型团队按需选用。",
+          "AI_HERO_SUBTITLE": "飞马加速，按需选档",
+          "AI_HIGHLIGHT_1": "100GB 至 1000GB 月流量",
+          "AI_HIGHLIGHT_2": "3 至 20 台设备并发",
+          "AI_HIGHLIGHT_3": "年付按十个月计费",
+          "AI_PLANS_INTRO": "三档套餐按月流量、设备数与专属权益区分，年付方案按十个月计费，可按使用规模对照选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照三档套餐的流量、设备数与价格，明确自己的使用规模与预算范围。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认常用设备与客户端是否符合使用条件。",
+          "AI_STEP_TEXT_3": "依对应客户端文档导入订阅链接，完成配置后即可开始使用。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞马加速服务"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "boom-intelligent.cn",
+    "host": "boom-intelligent.cn"
+  },
+  "file_hashes": {
+    "index.html": "4e5833a862e905df07b0925fe37c39efb8c9ace8a35545adc5e93f26606fa7bb",
+    "sitemap.xml": "49c7798c4bf901d0818e5674b1e02f493543a66b4c239787a878af6253c74063",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4c9b4729328d2027d485a155be779dd7a5d21960dae185972a7f18c13a669ccc",
+    "robots.txt": "64951d715433225f084ba13be2ac7512a184c52175379fe7cf6aa1cb6da55fa4",
+    "83b94ebeee5801e7f782e1979278a182.txt": "905ddf67d319186d6d285bf0e43885fc292f3f40851be9b27648e6668356a463"
+  },
+  "revision": "a58ff4e15385a0d9c24651cbb0b1fd088dfbf491ebf69ad0eb03c20e68d877a1"
+}
